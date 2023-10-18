@@ -1,5 +1,4 @@
 # Coding
-Coding assignments 
 Employee.h is a header file for the Employee class 
 Employee.cpp is the source file for the implementation of all memebers of the Employee class
 Manager.h is a header file for the Manager class 
